@@ -66,7 +66,7 @@ function RTL() {
                 percentage={{
                   color: "success",
                   amount: "+55%",
-                  label: "من الأسبوع الماضي",
+                  label: "jdowc",
                 }}
               />
             </MDBox>
@@ -110,7 +110,7 @@ function RTL() {
                 percentage={{
                   color: "success",
                   amount: "",
-                  label: "مقارنة بيوم أمس",
+                  label: "no.Jugadores",
                 }}
               />
             </MDBox>
@@ -124,7 +124,7 @@ function RTL() {
                   color="info"
                   title="مشاهدات الموقع"
                   description="آخر أداء للحملة"
-                  date="الحملة أرسلت قبل يومين"
+                  date="Gráfica sobre judores por mes"
                   chart={reportsBarChartData}
                 />
               </MDBox>
@@ -139,7 +139,7 @@ function RTL() {
                       (<strong>+15%</strong>) زيادة في مبيعات اليوم..
                     </>
                   }
-                  date="تم التحديث منذ 4 دقائق"
+                  date="Gráfica sobre judores por año"
                   chart={sales}
                 />
               </MDBox>
@@ -150,7 +150,7 @@ function RTL() {
                   color="dark"
                   title="المهام المكتملة"
                   description="آخر أداء للحملة"
-                  date="تم تحديثه للتو"
+                  date="yyy"
                   chart={tasks}
                 />
               </MDBox>
